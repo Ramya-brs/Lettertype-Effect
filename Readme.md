@@ -3,4 +3,4 @@
 ###### Purpose:
     Letter type effect in JS
 
-#### Dear Students, Check out the live app [here]().
+#### Hello, Check out the live app [here]().
