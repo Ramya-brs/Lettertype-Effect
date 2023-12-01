@@ -34,6 +34,11 @@ function setContent() {
    and appearance of web pages, such as colors, fonts, and layout.
    3. JavaScript:- A programming language that allows developers to add interactivity, 
    animations, and other dynamic elements to websites and web applications.
+   Front-end developers may also use libraries and frameworks, such as React, Angular, 
+   or Vue.js, to streamline their work and create more sophisticated and interactive UIs. 
+   Additionally, they often collaborate with back-end developers, who are responsible 
+   for the server-side logic and data management, to ensure seamless integration 
+   between the front-end and back-end components of a web application or website.
     </p>
   </div>
 </div>
