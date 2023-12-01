@@ -19,7 +19,7 @@ function setContent() {
   <div class="container">
   <div class="row">
     <h2 data-type data-type-min="100" data-type-max="300">
-     Main Heading
+     FRONTEND DEVELOPER
     </h2>
     <p class="text-start lh-lg" data-type data-type-min="1" data-type-max="6">
    A front-end developer is a type of software developer who specializes in creating and designing 
@@ -29,10 +29,10 @@ function setContent() {
 
    Front-end developers work with various technologies, tools, and languages, including:
 
-   1. HTML (HyperText Markup Language): The standard markup language used to create the structure and layout of web pages.
-   2. CSS (Cascading Style Sheets): A stylesheet language used to control the presentation, formatting,
+   1. HTML (HyperText Markup Language):- The standard markup language used to create the structure and layout of web pages.
+   2. CSS (Cascading Style Sheets):- A stylesheet language used to control the presentation, formatting,
    and appearance of web pages, such as colors, fonts, and layout.
-   3. JavaScript: A programming language that allows developers to add interactivity, 
+   3. JavaScript:- A programming language that allows developers to add interactivity, 
    animations, and other dynamic elements to websites and web applications.
     </p>
   </div>
